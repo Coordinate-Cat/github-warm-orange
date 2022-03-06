@@ -1,0 +1,97 @@
+@-moz-document url-prefix("https://github.com/Coordinate-Cat") {
+* {
+    color: rgb(233, 214, 172) !important;
+    text-decoration-color: rgb(233, 214, 172) !important;
+}
+body, .Header, main {
+    background: #353130 !important;
+}
+.mt-4.position-sticky.top-0.d-none.d-md-block.color-bg-default.width-full.border-bottom.color-border-muted {
+    background: #353130 !important;
+}
+.border-bottom {
+    border-bottom: 1px solid rgb(233, 214, 172) !important;
+}
+.UnderlineNav-item.selected, .UnderlineNav-item[role=tab][aria-selected=true], .UnderlineNav-item[aria-current]:not([aria-current=false]) {
+    border-bottom: 3px solid rgb(245, 125, 34) !important;
+}
+.Box {
+    background: #353130 !important;
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+.Box-body {
+    border-bottom: 1px solid rgb(233, 214, 172) !important;
+}
+.markdown-body h2 {
+    border-bottom: 1px solid rgb(233, 214, 172) !important;
+}
+.markdown-body img {
+    background: #353130 !important;
+}
+.UnderlineNav .Counter {
+    background: rgb(245, 125, 34) !important;
+}
+.no-underline, span.text-bold.color-fg-default, a.u-email.Link--primary, a.Link--primary {
+    color: rgb(233, 214, 172) !important;
+    text-decoration-color: rgb(233, 214, 172) !important; 
+}
+.header-search-wrapper {
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+label.form-control.input-sm.header-search-wrapper.p-0.js-chromeless-input-container.header-search-wrapper-jump-to.position-relative.d-flex.flex-justify-between.flex-items-center {
+    color: rgb(233, 214, 172) !important;
+    background: #353130 !important;
+}
+input.form-control.input-sm.header-search-input.jump-to-field.js-jump-to-field.js-site-search-focus.js-site-search-field.is-clearable, svg.mr-1.header-search-key-slash {
+    color: rgb(233, 214, 172) !important;
+    background: #353130 !important;
+}
+button.btn.btn-block.js-profile-editable-edit-button {
+    color: rgb(233, 214, 172) !important;
+    background: #f57d22 !important;
+}
+.avatar {
+    box-shadow: 0 0 0 1px rgb(233, 214, 172) !important;
+}
+.color-border-muted {
+    border-color: rgb(233, 214, 172) !important;
+}
+.notification-indicator .mail-status, span.mail-status.unread {
+    background: #f57d22 !important;
+}
+ul.filter-list.small, .color-bg-default {
+    background: #353130 !important;
+}
+.color-fg-muted {
+    color:rgb(233, 214, 172) !important;
+}
+.Link--muted {
+    color:rgb(233, 214, 172) !important;
+}
+.border {
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+a.js-org-filter-link.f6.py-1.pr-2.pl-1.rounded-2.mr-2.mb-2.subnav-item.css-truncate.css-truncate-target{
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+.Label--secondary {
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+summary.f6.rounded-2.border.Link--secondary.py-1.px-3.height-full {
+    color:rgb(233, 214, 172) !important;
+}
+span.color-fg-default.ws-normal.text-left {
+    color:rgb(233, 214, 172) !important;
+}
+.TimelineItem-badge {
+    border: 1px solid rgb(233, 214, 172) !important;
+}
+.filter-item.selected, .filter-item[aria-selected=true], .filter-item[aria-current]:not([aria-current=false]) {
+    color:rgb(233, 214, 172) !important;
+    background-color: #f57d22 !important;
+}
+.ajax-pagination-form .ajax-pagination-btn {
+    color:rgb(233, 214, 172) !important;
+    background-color: #f57d22 !important;
+}
+}
